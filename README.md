@@ -1,8 +1,8 @@
 # - 👋 Hi, I’m @ferozuddinmohammad
-- 👀 I’m interested in Test Automation/Manual, DevOps Engineering
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on *soon..
-- 📫 How to reach me ...//??\\
+- 👀 I’m interested in automated testing of software products (Test Automation)/Manual, DevOps Engineering
+- 🌱 I’m currently learning DevOps and to build and test bots
+- 💞️ I’m looking to collaborate on open source automation testing frameworks..
+- 📫 How to reach me @ https://www.linkedin.com/in/ferozuddin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 80% of organizations practice DevOps
 
